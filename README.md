@@ -1,6 +1,6 @@
 # Programming Education Report
 
-Programming education sessions were conducted from 11/11/2023 and concluded on 23/01/2024 at the INPUT Youth Center, spearheaded by Amer Alic.
+Programming education sessions were conducted from 11/11/2023 and concluded on 23/01/2024 at the INPUT Youth Center, led by Amer Alic.
 
 ## Objectives:
 
