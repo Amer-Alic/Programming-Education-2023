@@ -1,0 +1,7 @@
+KAKO HTML RADI: https://html.spec.whatwg.org/
+REDDIT: https://www.reddit.com/
+DIV: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/div
+SPAN: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/span
+MEDIUM: https://medium.com/
+MY PORTFOLIO: https://amer-alic.github.io/portofolio/#about
+WHY USE IT: https://developer.mozilla.org/en-US/docs/Glossary/Semantics
