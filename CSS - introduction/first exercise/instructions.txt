@@ -1,0 +1,16 @@
+Naša prva CSS vježba
+Vrijeme je za osnovnu CSS praksu! Dao sam vam neke osnovne HTML oznake u selektori.html, nemojte ih dirati! Stilizirajte elemente prema ovim pravilima:
+
+h1s
+     - zeleni tekst
+h2s
+     - magenta tekst
+paragrafi
+    - bijeli tekst
+    - crna boja pozadine
+dugmad
+    - crveni tekst
+    - ružičasta boja pozadine
+
+
+

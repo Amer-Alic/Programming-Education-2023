@@ -1,0 +1,7 @@
+It's time to practice a little with the new CSS selectors we just learned. Without touching any of the initial HTML code in index.html, write the CSS according to these rules:
+
+Give all <LI> elements a blue text color
+
+Give all elements with CLASS "DONE" the text color gray
+
+Give the element with "CLEAR" ID a red background and white text
