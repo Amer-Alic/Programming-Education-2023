@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Lexend+Deca&display=swap');
+
+:root {
+    --main-blue: hsl(233, 47%, 7%);
+    --secondary-blue: hsl(244, 38%, 16%);
+    --main-violet: hsl(277, 64%, 61%);
+    --main-violet-overlay: rgba(20, 20, 20, 0.60);
+    --main-white: hsl(0, 0%, 100%);
+    --secondary-white: hsla(0, 0%, 100%, 0.75);
+    --font: 12px;
+}
+
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--main-blue);
+    font-family: 'Inter';
+}
+
+main {
+    display: flex;
+    background-color: var(--secondary-blue);
+    max-height: 400px;
+    max-width: 1100px;
+}
+
+h1,
+span {
+    color: var(--main-white)
+}
+
+
+p {
+    width: 80%;
+}
+
+p,
+.kartica-tekst {
+    color: var(--secondary-white)
+}
+
+#insights {
+    color: var(--main-violet)
+}
+
+#right-side {
+    flex: 1;
+    position: relative;
+}
+
+#statistike {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.kartica-statistike {
+    display: flex;
+    flex-direction: column;
+
+}
+
+#left-side {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 40px;
+}
+
+img {
+    width: 100%;
+    height: 100%;
+}
+
+#overlay {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: var(--main-violet-overlay);
+}
+
+.kartica-broj {
+    margin: 5px;
+    padding: 10px;
+    font-size: var(--font);
+    font-weight: 700;
+}
