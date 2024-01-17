@@ -30,3 +30,7 @@ We are proud to announce that all three goals have been successfully achieved.
   - Importantly, the initiative to continue holding such training programs in the future on a larger scale has been successfully realized.
 
 Thank you for your support and participation!
+
+## Galery
+
+[image](./projects/adin1.png)
