@@ -34,4 +34,13 @@ Thank you for your support and participation!
 ## Galery
 
 ![amerHTML1](https://github.com/Amer-Alic/Programming-Education-2023/assets/111232965/f1614d89-f3fa-45fb-84be-0e25e87353b6)
+![amerCSS1](https://github.com/Amer-Alic/Programming-Education-2023/assets/111232965/fed34c95-4397-4720-a5a6-f8e291954da2)
+![adin1](https://github.com/Amer-Alic/Programming-Education-2023/assets/111232965/c43c7364-f8c9-413a-8a1c-66363938d16e)
+![amerHTML2](https://github.com/Amer-Alic/Programming-Education-2023/assets/111232965/54f6a687-8e4a-426f-97f3-6eb21979190d)
+![bakir1](https://github.com/Amer-Alic/Programming-Education-2023/assets/111232965/0b6e4e65-eb7e-455d-81a9-00715947adf0)
+![viber_image_2024-01-17_18-33-57-265](https://github.com/Amer-Alic/Programming-Education-2023/assets/111232965/0cc942ee-2c4b-4d6d-be91-84ba9eac6a66)
+![lastProject](https://github.com/Amer-Alic/Programming-Education-2023/assets/111232965/471689b1-2743-4dc1-bf9f-cb554288f223)
+![project3](https://github.com/Amer-Alic/Programming-Education-2023/assets/111232965/dbc2bd27-b0e8-49e5-af41-e9e3d0dd2e01)
+![project2](https://github.com/Amer-Alic/Programming-Education-2023/assets/111232965/7a3801da-0184-44c0-805d-5c692a651c07)
+![project1](https://github.com/Amer-Alic/Programming-Education-2023/assets/111232965/32487fe0-e72a-4048-aa4e-ac06a34f40c8)
 
