@@ -33,4 +33,5 @@ Thank you for your support and participation!
 
 ## Galery
 
-[image](./projects/adin1.png)
+![amerHTML1](https://github.com/Amer-Alic/Programming-Education-2023/assets/111232965/f1614d89-f3fa-45fb-84be-0e25e87353b6)
+
